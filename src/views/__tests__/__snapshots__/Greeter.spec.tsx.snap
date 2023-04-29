@@ -8,7 +8,7 @@ exports[`<Greeter /> should render correctly 1`] = `
     <h1
       class="heading-0-2-2"
     >
-      Hi! I'm Çağlar.
+      Hi! I'm Onur.
     </h1>
     <div
       class="typedWrap-0-2-3"
