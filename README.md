@@ -14,7 +14,7 @@
 
 ### ... run locally?
 
-Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/) installed.
+Make sure you have [Node](https://nodejs.org/en/) (tested on node v16.10.0) and [git](https://git-scm.com/) installed.
 
 - Clone the repo:
 
