@@ -67,7 +67,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 510 Introduction to Computer Science
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 17%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -188,7 +188,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 513 Introduction to Object Oriented Programming
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 100%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -260,7 +260,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 515 Database Systems
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -332,7 +332,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 517 Principles of Software Engineering
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -404,7 +404,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 MAT 510 Mathematics I
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 47%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -543,7 +543,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 520 Python Programming
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 100%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -615,7 +615,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 523 Software Requirements Engineering
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -687,7 +687,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 525 Software Development Lifecycle
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -759,7 +759,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 527 Software Design and Architecture
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -831,7 +831,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 MAT 520 Mathematics II
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -916,7 +916,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 530 Introduction to Operating Systems
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -988,7 +988,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 533 Secure Software Development
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 50%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1060,7 +1060,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 535 Managing Software Development
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1132,7 +1132,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 537 Software Verification and Validation
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1204,7 +1204,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 MAT 530 Mathematics III
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1289,7 +1289,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 540 Computer Systems Security
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1361,7 +1361,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 543 Data Structures and Algorithms
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1433,7 +1433,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 545 Human-Computer Interaction
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1505,7 +1505,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 547 Computer Networking
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1577,7 +1577,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 MAT 540 Mathematics IV
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1711,7 +1711,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 550 Cloud Computing
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1783,7 +1783,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 SWE 553 Blockchain Technology
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1855,7 +1855,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 DSC 550 Introduction to Statistics and Probability
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1927,7 +1927,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 DSC 553 Introduction to Data Science
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -1999,7 +1999,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 MAT 550 Discrete Mathematics
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -2084,7 +2084,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 DSC 560 Machine Learning
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -2156,7 +2156,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 DSC 563 Applied Data Science
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -2228,7 +2228,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 DSC 565 Computer Vision
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -2300,7 +2300,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 DSC 567 Autonomous Systems Engineering
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
@@ -2372,7 +2372,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 MAT 560 Mathematics for Machine Learning
               </span>
               <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+                style="width: 500px; height: 3px; background-color: rgb(44, 44, 44); margin-top: 3px;"
               >
                 <div
                   style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
