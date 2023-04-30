@@ -2,7 +2,6 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import Diploma from '../Diploma';
 import sweData from '../../data/json/swe.json';
-import staticData from '../../data/json/static.json';
 
 // Workaround for react-tooltip's randomly generated UUIDs.
 // https://github.com/wwayne/react-tooltip/issues/562
