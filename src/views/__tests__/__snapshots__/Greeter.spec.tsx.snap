@@ -29,12 +29,12 @@ exports[`<Greeter /> should render correctly 1`] = `
     >
       <div>
         <a
-          aria-label="Follow @caglarturali on GitHub"
+          aria-label="Follow @Runekid on GitHub"
           class="root-0-2-6"
-          href="https://github.com/caglarturali"
+          href="https://github.com/Runekid"
           rel="noopener noreferrer"
           target="_blank"
-          title="Follow @caglarturali on GitHub"
+          title="Follow @Runekid on GitHub"
         >
           <span
             class="contents-0-2-7"
@@ -57,7 +57,7 @@ exports[`<Greeter /> should render correctly 1`] = `
             <span
               class="text-0-2-8"
             >
-              Follow @caglarturali
+              Follow @Runekid
             </span>
             <span
               class="count-0-2-9"
@@ -65,12 +65,12 @@ exports[`<Greeter /> should render correctly 1`] = `
           </span>
         </a>
         <a
-          aria-label="Star caglarturali/caglarturali.github.io on GitHub"
+          aria-label="Star Runekid/react-ide-portfolio on GitHub"
           class="root-0-2-6"
-          href="https://github.com/caglarturali/caglarturali.github.io"
+          href="https://github.com/Runekid/react-ide-portfolio"
           rel="noopener noreferrer"
           target="_blank"
-          title="Star caglarturali/caglarturali.github.io on GitHub"
+          title="Star Runekid/react-ide-portfolio on GitHub"
         >
           <span
             class="contents-0-2-7"
