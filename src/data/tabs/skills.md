@@ -1,40 +1,64 @@
-### Technical skills
+### Technical/PM skills
 
-- [Odoo](https://www.odoo.com/) Development
-- Web Development (End-to-End)
-- Mobile Development (Hybrid/Native)
-- Game Development (Unity 3D)
-- VR Development (Unity 3D)
-- Web Design
-- 3D Modelling / Animation
+- Frontend development
+- Backend development
+- Agile/Scrum
+- Waterfall
 
 ### Programming languages / tech stacks
 
-- In modern times:
-  - Python
-  - Dart (w/ Flutter)
-  - JavaScript/TypeScript (3+ years)
-    - React.js
-    - Node.js
-    - Express.js
-    - MongoDB
-  - Golang (newcomer)
-- In ancient times:
-  - Java (~1 year)
-  - C#/.NET (3+ years)
-  - PHP/MySQL (~3 years)
+- Languages
+
+  - Java
+  - JavaScript
+  - TypeScript
+  - Smalltalk
+  - SQL
+  - HTML & CSS
+
+- Frameworks
+
+  - Spring, Spring Boot
+  - Vaadin
+  - Angular
+  - React
+  - Bootstrap
+  - Node
+
+- Databases
+
+  - Oracle
+  - MS SQL Server
+  - MySQL
+  - PostgreSQL
+
+- Cloud
+
+  - AWS - Elastic Stack (Elastic search/ Kibana / Logstash)
+  - Jenkins deployment pipeline usage
+
+- Source control
+
+  - Git
+  - Store (cincom smalltalk)
+
+- Testing
+
+  - Whats'on unit/ui testing
+  - Junit 5
+  - Jest
 
 ### Preferences 🙏
 
-- [Debian derivatives](https://www.debian.org/) || [Fedora](https://getfedora.org/) 🐧
-- [Zshell](https://en.wikipedia.org/wiki/Z_shell) ([Oh My Zsh](https://ohmyz.sh/)) 💻
 - [VSCode](https://code.visualstudio.com/) ¯\\_(ツ)_/¯
+- [IntelliJ](https://www.jetbrains.com/idea/) 🧑‍💻
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ⌨️
 
 ### Special interests 👌
 
-- \[Virtual\] Aviation ✈
-- Cycling 🚴‍♂️
-- Electronic music production 🎧
+- \[Gaming\] 🎮
+- Walking 🚶
+- Phonky Music 🎧
 - Entrepreneurship 👨🏻‍💻
 - Technical documentaries 🎥
+- Football ⚽

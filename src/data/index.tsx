@@ -51,11 +51,11 @@ export const tabs: TabLink[] = [
     mdFileName: 'education',
   },
   {
-    name: 'projects.config',
-    url: '/projects',
+    name: 'experience.config',
+    url: '/experience',
     icon: 'sliders-h',
     color: green,
-    mdFileName: 'projects',
+    mdFileName: 'experience',
   },
   {
     name: 'certificates.sass',
